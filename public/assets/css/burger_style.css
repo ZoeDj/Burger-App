@@ -1,25 +1,24 @@
 body {
   background: #ffa726;
-  background-blend ;
 }
 .tile .box {
   background: #fff3e0;
 }
-.button{
-    background: #ffa726;
-    color: #fff3e0;
-    border: none;
+.button {
+  background: #ffa726;
+  color: #fff3e0;
+  border: none;
 }
-.button:hover{
-    background: #ffb74d;
-    color: #fff3e0;
-    border: none;
+.button:hover {
+  background: #ffb74d;
+  color: #fff3e0;
+  border: none;
 }
-.title{
-    color: #fff3e0;
+.title {
+  color: #fff3e0;
 }
-h2{
-    color:#e65100;
-    font-size: 1.5em;
-    margin-bottom: 1%;
+h2 {
+  color: #e65100;
+  font-size: 1.5em;
+  margin-bottom: 1%;
 }
