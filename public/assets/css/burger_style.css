@@ -8,6 +8,7 @@ body {
   background: #ffa726;
   color: #fff3e0;
   border: none;
+  margin-bottom: 1%;
 }
 .button:hover {
   background: #ffb74d;
@@ -21,4 +22,7 @@ h2 {
   color: #e65100;
   font-size: 1.5em;
   margin-bottom: 1%;
+}
+input#burger {
+  margin-bottom: 2%;
 }
